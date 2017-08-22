@@ -1,4 +1,4 @@
-# Exploring search functions with PacMan
+# Exploring Search Functions with PacMan
 
 Repository exploring BFS, DFS, UCS, and A* search in the context of the game PacMan.
 
